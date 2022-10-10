@@ -16,7 +16,7 @@ h2 {
     margin: auto;
 }
 
-button {
+.button {
     background-color: rgb(175, 214, 171);
     display: inline-block;
     text-align: center;
